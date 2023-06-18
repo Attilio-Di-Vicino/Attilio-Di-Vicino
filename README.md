@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently Computer Science student at University of Naples "Parthenope"
 - 🌱 I’m currently learning artificial intelligence and decentralized services
-- 👯 I’m looking to collaborate on on innovative projects
+- 👯 I’m looking to collaborate on innovative projects
 - 🖥️ I'm interested artificial intelligence, decentralized services, algorithms, and data structures.
 - 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
 - 📚 I continue to expand my knowledge through self-study and academic courses.
