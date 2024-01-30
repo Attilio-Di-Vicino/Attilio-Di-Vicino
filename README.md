@@ -1,7 +1,7 @@
 ## About me
 
 - 🎉 Welcome to my GitHub profile! I'm [@AttilioDiVicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
-- 🎓 I have a degree in Computer Science at University of Naples "Parthenope"
+- 🎓 I have a degree in Computer Science at University of Naples "Parthenope" Grade: 110/110 cum laude et mentionem
 - 🔭 I’m currently Machine Learning and Big Data student at University of Naples "Parthenope"
 - 👯 I’m looking to collaborate on innovative projects [@theinnovationnetwork](https://www.theinnovationnetwork.it/)
 - 🖥️ I'm interested artificial intelligence, decentralized services, algorithms, and data structures.
