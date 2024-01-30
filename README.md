@@ -1,7 +1,8 @@
 ## About me
 
 - 🎉 Welcome to my GitHub profile! I'm [@AttilioDiVicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
-- 🔭 I’m currently Computer Science student at University of Naples "Parthenope"
+- 🎓 I have a degree in Computer Science at University of Naples "Parthenope"
+- 🔭 I’m currently Machine Learning and Big Data student at University of Naples "Parthenope"
 - 👯 I’m looking to collaborate on innovative projects [@theinnovationnetwork](https://www.theinnovationnetwork.it/)
 - 🖥️ I'm interested artificial intelligence, decentralized services, algorithms, and data structures.
 - 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
