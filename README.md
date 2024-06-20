@@ -9,6 +9,10 @@
 - 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
 - 📚 I continue to expand my knowledge through self-study and academic courses.
 - ⚡ Fun fact: There are 10 types of people: those who understand binary code and those who don't.
+- 🖥️ I'm interested artificial intelligence, decentralized services, algorithms, and data structures
+- 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends
+- 📚 I continue to expand my knowledge through self-study and academic courses
+- ⚡ Fun fact: There are 10 types of people: those who understand binary code and those who don't
 
 ## Contact
 
