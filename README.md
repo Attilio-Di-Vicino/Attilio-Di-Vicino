@@ -14,6 +14,6 @@
 
 I'm always excited to connect with fellow developers, collaborate on projects, or discuss ideas. You can reach me via:
 
-- 📧 Personal e-mail: attiliodivicino@libero.it
-- 📧 University e-mail: attilio.divicino001@studenti.uniparthenope.it
+- 📧 Personal email: attiliodivicino@libero.it
+- 📧 University email: attilio.divicino001@studenti.uniparthenope.it
 - 🔗 LinkedIn: [Attilio-Di-Vicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
