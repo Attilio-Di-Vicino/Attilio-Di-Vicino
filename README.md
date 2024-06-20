@@ -9,15 +9,11 @@
 - 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
 - 📚 I continue to expand my knowledge through self-study and academic courses.
 - ⚡ Fun fact: There are 10 types of people: those who understand binary code and those who don't.
-- 🖥️ I'm interested artificial intelligence, decentralized services, algorithms, and data structures
-- 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends
-- 📚 I continue to expand my knowledge through self-study and academic courses
-- ⚡ Fun fact: There are 10 types of people: those who understand binary code and those who don't
 
 ## Contact
 
 I'm always excited to connect with fellow developers, collaborate on projects, or discuss ideas. You can reach me via:
 
-- 📧 Personal e-mail: attiliodivicino@libero.it
-- 📧 University e-mail: attilio.divicino001@studenti.uniparthenope.it
+- 📧 Personal email: attiliodivicino@libero.it
+- 📧 University email: attilio.divicino001@studenti.uniparthenope.it
 - 🔗 LinkedIn: [Attilio-Di-Vicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
