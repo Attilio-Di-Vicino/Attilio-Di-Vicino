@@ -3,8 +3,7 @@
 - 🎉 Welcome to my GitHub profile! I'm [@AttilioDiVicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
 - 🎓 I have a degree in Computer Science from the University of Naples "Parthenope" with a Grade of 110/110 cum laude et mentionem.
 - 🔭 I’m currently a Machine Learning and Big Data student at the University of Naples "Parthenope".
-- 💻 I'm currently a Research Fellow at Parthenope University of Naples, working on the ESA Mission Comet Interceptor.
-- 🌌 I am working on a research scholarship with the ESA Comet Interceptor mission at the University of Naples "Parthenope".
+- 🌌 I'm a Research Fellow at Parthenope University of Naples, working on the ESA Mission Comet Interceptor.
 - 👯 I’m looking to collaborate on innovative projects [@theinnovationnetwork](https://www.theinnovationnetwork.it/)
 - 🖥️ I'm interested in artificial intelligence, decentralized services, algorithms, and data structures.
 - 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
