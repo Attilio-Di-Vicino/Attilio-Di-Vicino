@@ -1,19 +1,16 @@
 ## About me
 
-- 🎉 Welcome to my GitHub profile! I'm [@AttilioDiVicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
-- 🎓 I have a degree in Computer Science from the University of Naples "Parthenope" with a Grade of 110/110 cum laude et mentionem.
-- 🔭 I’m currently a Machine Learning and Big Data student at the University of Naples "Parthenope".
-- 🌌 I'm a Research Fellow at Parthenope University of Naples, working on the ESA Mission Comet Interceptor.
-- 👯 I’m looking to collaborate on innovative projects [@theinnovationnetwork](https://www.theinnovationnetwork.it/)
-- 🖥️ I'm interested in artificial intelligence, decentralized services, algorithms, and data structures.
-- 🌱 I enjoy exploring new technologies and staying updated on the latest industry trends.
-- 📚 I continue to expand my knowledge through self-study and academic courses.
-- ⚡ Fun fact: There are 10 types of people: those who understand binary code and those who don't.
+- 👋 Hi, I'm [@AttilioDiVicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/), a Machine Learning Engineer passionate about AI and scientific research.
+- 🎓 M.Sc. in Applied Computer Science (Machine Learning and Big Data) from the University of Naples Parthenope, graduated with 110/110 cum laude and honors.
+- 🤖 Currently working as a Machine Learning Engineer, focusing on Generative AI, Large Language Models (LLMs), RAG, GraphRAG, and multi-agent systems.
+- 🔬 My research interests include machine learning, self-supervised and contrastive learning, federated learning, and scientific AI applications.
+- 📚 Co-author of scientific publications in machine learning, computational science, and distributed data analysis.
+- 🌌 Interested in applying AI to challenging real-world problems and bridging the gap between research and practical applications.
+- 🚀 Always eager to explore new ideas, learn from talented people, and contribute to projects that can make a meaningful impact.
+- 🤝 Open to collaborations in machine learning, artificial intelligence, and innovative research projects.
+- ⚡ Fun fact: There are 10 types of people: those who understand binary and those who don't.
 
 ## Contact
 
-I'm always excited to connect with fellow developers, collaborate on projects, or discuss ideas. You can reach me via:
-
 - 📧 Personal email: attiliodivicino@libero.it
-- 📧 University email: attilio.divicino001@studenti.uniparthenope.it
-- 🔗 LinkedIn: [Attilio-Di-Vicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
+- 🔗 LinkedIn: [Attilio Di Vicino](https://www.linkedin.com/in/attilio-di-vicino-7589b417a/)
